@@ -1,6 +1,6 @@
 {
     "ftbFAQ":{
-        "enabled": false,
+        "enabled": true,
         "maintenance": false
     }
 }
